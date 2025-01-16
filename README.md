@@ -32,8 +32,3 @@ The **HR Analytics Dashboard** provides a comprehensive analysis of employee dat
 - **Power BI Desktop**: For data visualization and dashboard creation.  
 
 ---
-
-## 🚀 How to Use  
-1. Clone the repository:  
-   ```bash
-   git clonehttps://github.com/adityadangwal011/HR-ANALYTICS-DASHBOARD-.git
